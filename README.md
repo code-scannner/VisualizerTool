@@ -19,7 +19,7 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 
 - GTK+ library (version 3 or later)
 
-### Installation
+### Building from Source
 
 1. Clone the repository:
 
